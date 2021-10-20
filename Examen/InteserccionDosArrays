@@ -1,1 +1,10 @@
-
+	public static int[]interseccionArrays (int array1[], int array2[], int array3[]){
+		int j = 0;	
+		for (int i = 0; i<10; i++) {
+			array3[j] = array1[i];
+			j++;
+			array3[j] = array2[i];
+			j++;
+		}
+		
+	}
