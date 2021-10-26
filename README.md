@@ -1,4 +1,4 @@
 # LabADAGrupoC
 
 # Alumno: Marco David Chávez Chambi
-# Tarea: LabAula02
+# Sesiones de Laboratorio
