@@ -29,6 +29,6 @@ public class UniquePathII {
 		    }
 		}
 		return path[col - 1];    
-		}
+	}
 }
 
